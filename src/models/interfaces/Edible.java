@@ -1,4 +1,4 @@
-package models.inters;
+package models.interfaces;
 
 public interface Edible {
 

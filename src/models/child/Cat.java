@@ -1,7 +1,7 @@
 package models.child;
 
 import models.animals.Animal;
-import models.inters.Edible;
+import models.interfaces.Edible;
 
 public class Cat extends Animal implements Edible {
 

@@ -1,6 +1,6 @@
 package models.animals;
 
-import models.inters.Edible;
+import models.interfaces.Edible;
 
 public class Chicken extends Animal implements Edible {
 

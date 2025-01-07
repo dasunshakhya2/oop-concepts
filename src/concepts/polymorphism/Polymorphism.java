@@ -2,7 +2,7 @@ package concepts.polymorphism;
 
 import models.animals.Animal;
 import models.animals.Lion;
-import models.inters.Edible;
+import models.interfaces.Edible;
 
 public class Polymorphism {
 

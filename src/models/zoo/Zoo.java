@@ -1,4 +1,6 @@
-package models.animals;
+package models.zoo;
+
+import models.animals.Animal;
 
 public class Zoo {
 
