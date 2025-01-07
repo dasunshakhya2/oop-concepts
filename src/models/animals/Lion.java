@@ -2,6 +2,12 @@ package models.animals;
 
 import models.interfaces.Edible;
 
+
+/**
+ * when extending a class we define `is` relationship.
+ * Lion is an Animal. Here we can use a Lion object,
+ * where ever Animal reference is used.
+ * */
 public class Lion extends Animal implements Edible {
 
 
